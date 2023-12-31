@@ -1,0 +1,13 @@
+body{
+    background: url(image/taverna-47-foto-7.jpg);
+    color: aquamarine;
+}
+#main{
+    padding: 10px;
+    background: url(image/1616676231_1-p-sero-chernii-fon-1.jpg);
+    margin: 100px 150px 0px 150px;
+}
+#main a{
+    text-decoration: none;
+    color: aquamarine;
+}
